@@ -13,6 +13,3 @@ For now let us just keep in mind that we can't use the above mentioned character
 • Brainf**k uses single memory cells to print and store values, which are initially empty
 • We can move from a left cell to a right cell by using greater than sign angle bracket
 • We can move from a right cell to a left cell by using lesser than sign bracket
-• 
-• 
-• 
